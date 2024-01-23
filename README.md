@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **HTML and CSS**
+- 🔭 I’m currently working on **HTML,CSS,JavaScript and Python**
 
-- 📫 How to reach me **rishabh@airforceschoolhalwara.com**
+- 📫 How to reach me **rishabhpathak2009@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/rishabhh12_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabhh12_" height="30" width="40" /></a>
+<a href="https://instagram.com/rishabh.zinc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabhh12_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
